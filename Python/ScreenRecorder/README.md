@@ -67,8 +67,8 @@ python3 screen_recorder.py
 ---
 
 ## 👤 Author:
-**Your Name**  
-[GitHub Profile](https://github.com/YourGitHubUsername)
+**Aravind**  
+[Aarav Profile](https://github.com/aarav-26)
 
 ---
 
