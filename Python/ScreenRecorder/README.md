@@ -51,8 +51,8 @@ Download and install from [ffmpeg.org](https://ffmpeg.org/download.html)
 
 1️⃣ **Download or clone the repository**
 ```bash
-git clone https://github.com/aarav-26/python-screen-recorder.git
-cd python-screen-recorder
+git clone https://github.com/aarav-26/MiniProjects.git
+cd MiniProjects/Python/ScreenRecorder
 ```
 
 2️⃣ **Install the required Python libraries**
