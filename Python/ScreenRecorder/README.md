@@ -91,7 +91,9 @@ ffplay final_output.mp4
 ---
 
 ## 📦 Output Example:
-![screenshot](https://via.placeholder.com/800x400?text=Screen+Recording+Preview)
+![screenshot](images/sample_screen_1.png)
+![screenshot](images/sample_screen_2.png)
+![screenshot](images/sample_screen_3.png)
 
 ---
 
