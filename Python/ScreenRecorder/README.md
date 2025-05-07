@@ -1,3 +1,4 @@
+
 # 🎥📸 Python Screen Recorder with Audio Sync
 
 A lightweight Python-based desktop screen recorder with audio capture and perfectly synced final video output using `ffmpeg`.  
@@ -30,3 +31,46 @@ A lightweight Python-based desktop screen recorder with audio capture and perfec
 
 ```bash
 pip install -r requirements.txt
+```
+
+2️⃣ Install **FFmpeg** if not installed:
+
+- **Linux (Ubuntu/Kali):**
+```bash
+sudo apt update && sudo apt install ffmpeg
+```
+
+- **Windows:**  
+Download and install from [ffmpeg.org](https://ffmpeg.org/download.html)
+
+---
+
+## ▶️ How to Run:
+
+1️⃣ Run the Python script:
+```bash
+python3 screen_recorder.py
+```
+
+2️⃣ A preview window opens — press `q` anytime to stop recording.
+
+3️⃣ The following files will be generated:
+- `recording.avi` → raw video
+- `audio.wav` → audio recording
+- `final_output.mp4` → final video with synced audio
+
+---
+
+## 📦 Output Example:
+![screenshot](https://via.placeholder.com/800x400?text=Screen+Recording+Preview)
+
+---
+
+## 👤 Author:
+**Your Name**  
+[GitHub Profile](https://github.com/YourGitHubUsername)
+
+---
+
+## 📄 License:
+Open-source — free to use, modify, and distribute.
