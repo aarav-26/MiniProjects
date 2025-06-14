@@ -1,0 +1,17 @@
+Requirements
+
+streamlit
+pillow
+pytesseract
+
+sudo apt-get install tesseract-ocr
+
+
+--------------------------------------------------------
+for terminal based
+
+Pillow
+pytesseract
+tkinter
+
+------------------------------------------------------
